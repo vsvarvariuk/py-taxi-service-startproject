@@ -1,24 +1,5 @@
 # .gitignore
 
-# Віртуальне середовище
 venv/
-
-# PyCharm/VSCode
 .idea/
-.vscode/
-
-# Python файли
-*.pyc
-*.pyo
-*.pyd
 __pycache__/
-
-# macOS
-.DS_Store
-
-
-*.log
-*.sqlite3
-
-# Інші
-*.pot
